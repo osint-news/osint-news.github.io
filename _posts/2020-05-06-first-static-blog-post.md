@@ -2,7 +2,7 @@
 layout: post
 title: So, these static site generators...
 subtitle: They really are as easy as proponents make out.
-cover-img: /assets/img/scaffolding-1617969_1280.jpg
+cover-img: /assets/img/scaffold-1258470_1280.jpg
 tags: [blog]
 ---
 
@@ -12,6 +12,4 @@ As promised by dozens of tools and developers, setting up a GutHub site really i
 ### Credits
 
 *Site scaffold by [Dean Attali](https://github.com/daattali) via his rather lovely [Beautiful theme](https://github.com/daattali/beautiful-jekyll) and clear instructions!*
-
-*Scaffold image by [Ahmad Ardity](https://pixabay.com/users/AhmadArdity-3112014/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1617969) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1617969)*
-
+*Scaffold image by [Michael Gaida](https://pixabay.com/users/MichaelGaida-652234/) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1258470).*
