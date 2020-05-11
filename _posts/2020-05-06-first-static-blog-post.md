@@ -14,4 +14,5 @@ Anyway, I will try to use this space to highlight points of OSINT interest, whil
 
 #### Credits
 *Site scaffold by [Dean Attali](https://github.com/daattali) via his rather lovely [Beautiful theme](https://github.com/daattali/beautiful-jekyll) and clear instructions!*  
-*Scaffold image by [Ahmad Ardity](https://pixabay.com/users/AhmadArdity-3112014/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1617969) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1617969)*
+*Original lightbulb [photo](https://www.pexels.com/photo/close-up-photo-ofg-light-bulb-716398/) by [Rahul](https://www.pexels.com/@byrahul) on Pexels.*
+
