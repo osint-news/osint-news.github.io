@@ -2,7 +2,7 @@
 layout: post
 title: So, these static site generators...
 subtitle: They really are as easy as proponents make out.
-cover-img: /assets/img/scaffolding-1617969_1280.jpg
+cover-img: /assets/img/light-bulb-edit-compress.jpg
 tags: [blog]
 ---
 
