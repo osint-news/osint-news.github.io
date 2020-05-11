@@ -581,6 +581,8 @@ footer .footer-custom-content {
 }
 .intro-header .page-heading {
   text-align: center;
+  background-color: #D0D0D0;
+  opacity: 0.5;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
