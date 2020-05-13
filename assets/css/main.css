@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Fira Code', monospace;
+  font-family: 'Patua One', cursive;
   font-size: 1.125rem;
   color: #404040;
   position: relative;
@@ -472,7 +472,7 @@ footer .footer-custom-content {
   margin: 0 0 0.625rem;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Fira Code', monospace;
 }
 .post-entry-container {
   display: inline-block;
